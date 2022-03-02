@@ -1,4 +1,4 @@
-package com.snail.mineswap;
+package com.snail.mineswap.object;
 
 public class Point
 {

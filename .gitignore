@@ -12,6 +12,7 @@
 
 #idea IDE settings
 .idea
+*.iml
 
 # Package Files #
 *.jar
